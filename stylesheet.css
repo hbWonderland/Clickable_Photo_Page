@@ -1,11 +1,10 @@
-img {
-.responsive {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-	}
+.image img {
+    height: auto !important;
+    width: auto !important;
+    max-width: 300px;
 }
 
-table, td {
-	border: 1px #000000 solid;
+table {
+    width: 100%;
+    table-layout: fixed;
 }
