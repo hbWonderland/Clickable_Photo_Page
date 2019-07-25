@@ -1,7 +1,10 @@
 img {
-	width:300px;
-	height:300px;
-}
+.responsive {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+	}
+	}
 
 table, td {
 	border: 1px #000000 solid;
