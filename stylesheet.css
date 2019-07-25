@@ -8,11 +8,4 @@ img {
 
 table, td {
 	border: 1px #000000 solid;
-	
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-	}
 }
