@@ -8,4 +8,10 @@ img {
 
 table, td {
 	border: 1px #000000 solid;
+	
+.responsive {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+	}
 }
