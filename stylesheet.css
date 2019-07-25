@@ -2,14 +2,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 70%;
 }
 
 table, td {
 	border: 1px #000000 solid;
-.responsive {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-	}
 }
