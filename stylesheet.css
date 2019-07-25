@@ -3,14 +3,13 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-	
+}
+
+table, td {
+	border: 1px #000000 solid;
 .responsive {
   width: 100%;
   max-width: 300px;
   height: auto;
 	}
-}
-
-table, td {
-	border: 1px #000000 solid;
 }
